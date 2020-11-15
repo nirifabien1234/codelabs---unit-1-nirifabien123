@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CapStone</string>
+    <string-array name="food">
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+        <item>Samusa</item>
+
+    </string-array>
+</resources>
